@@ -14,7 +14,8 @@ claude-code-qwen-assignment/
 │   ├── Screenshot 2 (ollama-version).png
 │   ├── Screenshot 3 (qwen-model-list).png
 │   ├── Screenshot 4 (model-chat-response).png
-│   └── Screenshot 5 (python-app-response).png
+│   ├── Screenshot 5 (python-app-response).png
+│   └── Screenshot 6 (github-repo).png
 ├── .gitignore          # Ignores venv and cache files
 └── README.md           # This file
 ```
