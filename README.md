@@ -10,11 +10,11 @@ This repo is my submission for the **"Building Agentic Systems with Claude Code 
 claude-code-qwen-assignment/
 ├── app.py              # Python script to query the local Qwen model
 ├── screenshots/        # All task screenshots
-│   ├── claude-code-installed.png
-│   ├── ollama-version.png
-│   ├── qwen-model-list.png
-│   ├── model-chat-response.png
-│   └── python-app-response.png
+│   ├── Screenshot 1 (claude-code-installed).png
+│   ├── Screenshot 2 (ollama-version).png
+│   ├── Screenshot 3 (qwen-model-list).png
+│   ├── Screenshot 4 (model-chat-response).png
+│   └── Screenshot 5 (python-app-response).png
 ├── .gitignore          # Ignores venv and cache files
 └── README.md           # This file
 ```
